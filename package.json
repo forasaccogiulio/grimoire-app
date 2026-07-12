@@ -1,0 +1,13 @@
+{
+  "name": "grimoire-app",
+  "version": "1.0.0",
+  "description": "Grimoire - Scheda Artefice D&D 5e",
+  "scripts": {
+    "sync": "npx cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.4.1",
+    "@capacitor/cli": "^7.4.1",
+    "@capacitor/core": "^7.4.1"
+  }
+}
